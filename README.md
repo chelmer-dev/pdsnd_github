@@ -19,3 +19,6 @@ Special credits go to Richard
 ### Additional files used
 Include additional files used
 
+### Additional credits
+Include additional credits used
+
