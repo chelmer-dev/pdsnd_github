@@ -117,6 +117,14 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+def calculate_number_of_bikes(df):
+    # function that calculates total number of bikes goes here
+
+
+def calculate_number_of_cities(df):
+    # function that calculates number of cities goes here
+
+
 
 def main():
     while True:
