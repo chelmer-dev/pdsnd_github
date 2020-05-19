@@ -117,8 +117,10 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-def subroutine1(df):
-    # subroutine1 goes here
+def calculate_number_of_bikes(df):
+    # function that calculates total number of bikes goes here
+
+
 
 
 
