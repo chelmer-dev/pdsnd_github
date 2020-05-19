@@ -121,7 +121,8 @@ def calculate_number_of_bikes(df):
     # function that calculates total number of bikes goes here
 
 
-
+def calculate_number_of_cities(df):
+    # function that calculates number of cities goes here
 
 
 
